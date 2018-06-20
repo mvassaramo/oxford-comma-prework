@@ -4,3 +4,4 @@ if array.size === 3
 
 else array.join(" and ")
 end
+end
